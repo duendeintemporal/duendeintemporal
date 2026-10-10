@@ -65,7 +65,7 @@ Trabajo realizado en el **Instituto Geográfico Simón Bolívar** (Venezuela):
 Encargado del centro de documentación de Ordenamiento Ambiental DGPOA. Digitalización, organización y estructuración
 de la información para consulta pública.
 
-
+### Creador, conceptualización y webmaster de https://planetaneurodiverso.org/
 
 
 ---
@@ -131,10 +131,11 @@ Participación en campeonatos **interestatales** durante mi infancia y juventud.
 
 ## 📫 Contacto
 
-- 💼 [LinkedIn](https://linkedin.com/in/Niko Zen)
+- 💼 [LinkedIn](https://linkedin.com/in/niko-zen)
 - 🐙 [GitHub](https://github.com/duendeintemporal)
 - 📧 duendeintemporal@hotmail.com
 - 🌍 Disponible para **Barcelona** (híbrido) o Remoto
+
 
 ---
 
